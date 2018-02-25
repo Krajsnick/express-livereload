@@ -3,6 +3,6 @@
   "version": "0.0.24",
   "description": "Adds livereload functionality to express app to make development easier on express app without repetitive ⌘ + S",
   "dependencies": {
-    "livereload": "^0.6.0"
+    "livereload": "^0.7.0"
   }
 }
